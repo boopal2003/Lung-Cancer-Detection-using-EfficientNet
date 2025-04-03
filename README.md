@@ -19,5 +19,5 @@ The trained model achieves an accuracy of **98%**, demonstrating its effectivene
 4. **Testing** – The trained model was tested on new images to ensure reliable predictions.
 
 ## Usage
-Clone this repository and use the saved [model](https://drive.google.com/file/d/10MSXkQzSOShPfPllGcMxT90aSTc9db54/view?usp=sharing) to classify new images.
+Clone this repository and use the [saved model](https://drive.google.com/file/d/10MSXkQzSOShPfPllGcMxT90aSTc9db54/view?usp=sharing) to classify new images.
 
